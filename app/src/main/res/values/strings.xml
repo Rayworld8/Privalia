@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Privalia</string>
+
+    <!-- Main -->
+    <string name="search">Search</string>
+
+    <!-- Movies fragment -->
+    <string name="noResults">No movies found!</string>
+
+    <!-- Error Messages -->
+    <string name="error">An Error Has Occurred</string>
+    <string name="error_email_provided">The email provided is incorrect</string>
+    <string name="parse_error_title">Well, this is embarrassing</string>
+    <string name="parse_error_message">An error has occurred while trying to load content from our servers.</string>
+    <string name="no_connection">No connection</string>
+    <string name="no_connection_title">Connection error</string>
+    <string name="invalid_revision_error_title">Edit conflict</string>
+    <string name="invalid_revision_error">Your changes could not be saved because the content you are editing has changed since you last opened it. Please remake your changes and try again.</string>
+    <string name="fatal_error_title">Unknown Error</string>
+    <string name="fatal_error">It looks like an error occurred.</string>
+    <string name="forbidden_error">You have insufficient privileges to perform this action.</string>
+    <string name="login_error">Invalid login. Check your email address and password to verify they are correct.</string>
+    <string name="not_found_error">The requested data does not exist.</string>
+    <string name="error_confirm">OK</string>
+    <string name="comments_send_error_msg">Comment could not be sent. Please, try again.</string>
+    <string name="validation_error_title">Validation Error</string>
+    <string name="validation_error_body">Validation failed</string>
+    <string name="gmail_not_supported">We\'re sorry, but Gmail is not supported in your Android version.</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+
+</resources>
